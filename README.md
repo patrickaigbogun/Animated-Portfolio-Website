@@ -9,7 +9,7 @@ Welcome to the Smooth Animation Portfolio Landing Page! This project is designed
 - **Desktop optimized:** Perfect for desktop viewing, with plans for a responsive version in the future.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/patrickaigbogun/`
+1. Clone the repository: `git clone https://github.com/patrickaigbogun/Animated-Portfolio-Website/tree/main`
 2. Open the `index.html` file in your web browser.
 
 ## Usage
