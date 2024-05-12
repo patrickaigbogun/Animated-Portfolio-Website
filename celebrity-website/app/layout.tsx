@@ -19,7 +19,7 @@ export default function RootLayout({
       <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
       <title>Animated Portfolio Website HTML CSS JS</title>
-      <link href='../boxicons/css/boxicons.min.css' rel='stylesheet'></link>
+      <link href='./boxicons.min.css' rel='stylesheet'></link>
       </head>
       <body  className="body">{children}</body>
     </html>
