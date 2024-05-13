@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 
 export default function Landing() {
   return (
@@ -8,9 +8,8 @@ export default function Landing() {
           <nav className="navbar">
             <a href="#" className="active">Home</a>
             <a href="#">About</a>
-            <a href="#">Services</a>
-            <a href="#">Portfolio</a>
-            <a href="#">Contact</a>
+            <a href="#">Fan Club</a>
+            <a href="#">Contact/Booking</a>
           </nav>
         </header>
 
@@ -38,8 +37,7 @@ export default function Landing() {
         </section>
 
 
-        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-        <script src="script.js"></script>
+       
       </>
   );
 }

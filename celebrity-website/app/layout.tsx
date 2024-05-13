@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./style.css";
-import "@/boxicons/css/boxicons.min.css" ;
+import "@/public/boxicons/css/boxicons.min.css" ;
 
 
 
@@ -23,7 +23,10 @@ export default function RootLayout({
       <title>Animated Portfolio Website HTML CSS JS</title>
       <link href='./boxicons.min.css' rel='stylesheet'></link>
       </head>
-      <body  className="body">{children}</body>
+      <body  className="body">
+        {children}
+        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+      </body>
     </html>
   );
 }
