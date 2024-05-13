@@ -23,7 +23,7 @@ body {
     left:0;
     width: 100%;
     padding: 20px 10%;
-    background: transparent;
+    background: rgba(8, 27, 41, 0.454);;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -330,4 +330,10 @@ body {
     100%{
         pointer-events: auto;
     }
+}
+
+footer{
+    max-width: 100%;
+    background-color: inherit;
+    height: 20%;
 }
