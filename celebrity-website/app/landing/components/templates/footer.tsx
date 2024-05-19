@@ -1,11 +1,10 @@
-import React from 'react'
+import React from "react";
 
 export default function Footer() {
-	return (
-		<footer>
-			<div>
-				&copy Patrick Aigbogun
-			</div>
-		</footer>
-	)
+	return <footer className="footer mt-auto py-3 bg-light">
+	<div className="container">
+	  <span className="text-muted">Place sticky footer content here.</span>
+	</div>
+  </footer>
+  ;
 }

@@ -8,9 +8,9 @@ export default function PageLanding() {
 	return (
 		<>
 			<Home/>
-			<About></About>
-			<Fanclub></Fanclub>
-			<Contactus></Contactus>
+			<About/>
+			<Fanclub/>
+			<Contactus/>
 		</>
 	);
 }

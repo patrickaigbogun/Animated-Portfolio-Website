@@ -24,6 +24,7 @@ export default function RootLayout({
       <link rel="stylesheet" href="bootstrap5/dist/css/bootstrap.min.css"></link>
       <link rel="stylesheet" href="/style.css" />
 			<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+      <script src="bootstrap5/dist/js/bootstrap.min.js" ></script>
 		</head>
       <body  className="body">
       <Header/>
